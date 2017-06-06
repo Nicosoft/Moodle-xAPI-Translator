@@ -17,7 +17,7 @@ class Event extends PhpObj {
 
         return [[
             'user_id' => $opts['user']->id,
-            'user_email' => $opts['user']->email,
+            'user_email' => $opts['user']->user_email,
             'user_url' => $opts['user']->url,
             'user_name' => $opts['user']->fullname,
             'context_lang' => is_null($opts['course']->lang)
