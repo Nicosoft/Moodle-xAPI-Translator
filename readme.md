@@ -1,3 +1,6 @@
+# Deprecated
+This Github repository has now been combined into the [main plugin repository](https://github.com/xAPI-vle/moodle-logstore_xapi).
+
 # [Moodle to xAPI Translator](https://github.com/LearningLocker/Moodle-xAPI-Translator)
 > Translates [expanded events from the Moodle Logstore](https://github.com/LearningLocker/Moodle-Log-Expander) to [xAPI recipe options](https://github.com/LearningLocker/xAPI-Recipe-Emitter).
 
